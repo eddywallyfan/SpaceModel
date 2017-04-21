@@ -1,0 +1,7 @@
+﻿  ofApp.cpp
+src\ofApp.cpp(4): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+src\ofApp.cpp(7): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  SpaceModel.vcxproj -> C:\Users\John\Documents\School\Media technology\New media new technologies\SpaceModel\bin\SpaceModel_debug.exe
+  SpaceModel.vcxproj -> bin\SpaceModel_debug.pdb (Full PDB)
+  
+  	                   9	C:\Users\John\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\export\vs\Win32\
